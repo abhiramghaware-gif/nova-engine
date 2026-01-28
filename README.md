@@ -6,27 +6,23 @@
 
 ###
 
-<p align="left">My name is <strong>Abhiram Ghaware</strong> and I'm a first-year B.Tech Computer Science Core student at <strong>SRMIST Kattankulathur</strong>. I'm passionate about building logic-driven software and exploring the vast world of Computational Biology.</p>
+<p align="left">My name is <strong>Abhiram Ghaware</strong> and I'm a first-year B.Tech Computer Science Core student at <strong>SRMIST Kattankulathur</strong>. I am focused on mastering low-level programming and building efficient, logic-driven software.</p>
 
 ###
 
 <h2 align="left">🚀 About me</h2>
 
-###
-
 <p align="left">
 ✨ **Coding Journey:** Started in 2025, specializing in C and C++ fundamentals.<br>
-📚 **Academic Focus:** Currently mastering Data Structures, Algorithms, and the Human Genome.<br>
+📚 **Academic Focus:** Currently mastering Data Structures, Algorithms, and Software Logic.<br>
 🗣️ **Languages:** Fluent in English, Hindi, and known with **German (A1 level)**.<br>
-🎯 **2026 Goals:** Contributing to Bioinformatics open-source projects and mastering Python for Data Science.<br>
-🎲 **Fun fact:** I find debugging memory leaks more relaxing than a cup of coffee.
+🎯 **2026 Goals:** Building a strong portfolio in Data Structures and contributing to Open Source software.<br>
+🎲 **Fun fact:** I enjoy the logic of a clean loop more than a movie marathon.
 </p>
 
 ###
 
 <h2 align="left">🛠️ My Tech Stack</h2>
-
-###
 
 <div align="left">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -35,6 +31,17 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </div>
+
+###
+
+<h2 align="left">📊 Technical Expertise</h2>
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | C, C++, Python (Basics), JavaScript |
+| **CS Fundamentals** | Data Structures, Logic Building, OOPs |
+| **Tools & OS** | Git, GitHub, VS Code, Windows/Linux |
+| **Soft Skills** | Technical Writing, Problem Solving, German (A1) |
 
 ###
 
